@@ -1,0 +1,14 @@
+{
+  "android": {
+    "com.getperka.android.customerclient": {
+      "minimum": "6.0.4",
+      "recommended": "6.0.4"
+    }
+  },
+  "iOS": {
+    "com.getperka.customer": {
+      "minimum":"1371",
+      "recommended":"1371"
+    }
+  }
+}
