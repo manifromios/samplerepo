@@ -1,8 +1,8 @@
 {
   "android": {
     "com.getperka.android.customerclient": {
-      "minimum": "7.0.5",
-      "recommended": "8.0.5"
+      "minimum": "6.0.0",
+      "recommended": "6.5.0"
     }
   },
   "iOS": {
