@@ -7,7 +7,7 @@
   },
   "iOS": {
     "com.getperka.customer": {
-      "minimum":"1402",
+      "minimum":"1405",
       "recommended":"1405"
     }
   }
