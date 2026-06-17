@@ -1,13 +1,13 @@
 {
   "android": {
     "com.getperka.android.customerclient": {
-      "minimum": "6.1.0",
+      "minimum": "6.9.0",
       "recommended": "6.9.0"
     }
   },
   "iOS": {
     "com.getperka.customer": {
-      "minimum":"1401",
+      "minimum":"1403",
       "recommended":"1407"
     }
   }
